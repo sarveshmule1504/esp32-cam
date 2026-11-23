@@ -26,14 +26,6 @@ This board can be manufactured through JLCPCB with their PCB Assembly (PCBA) ser
 
 **Note:** The ESP32-WROOM-1U module must be purchased and soldered separately, as it cannot be included in the standard JLCPCB PCBA service.
 
-### Bill of Materials
-
-| Item           | Cost       | Quantity | Link                                                  |
-| -------------- | ---------- | -------- | ----------------------------------------------------- |
-| PCB from JLC   | $45.51     | 1        | [Images/Cart.png](Images/Cart.png)                    |
-| ESP32-WROOM-1U | $5.33      | 1        | https://www.lcsc.com/product-detail/C3013946.html     |
-| OV2640 Camera  | $6.65      | 1        | https://www.aliexpress.com/item/1005003040149873.html |
-| **Total**      | **$57.49** |          |                                                       |
 
 ## Board Images
 
@@ -52,3 +44,4 @@ This board can be manufactured through JLCPCB with their PCB Assembly (PCBA) ser
 ## License
 
 This ESP32-CAM is licensed under the MIT License. See the full license text in [LICENSE](LICENSE).
+
