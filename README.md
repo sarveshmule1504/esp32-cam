@@ -1,6 +1,5 @@
 # Barebones ESP32-CAM
 
-![A Top 3d view of the board](Images/3D%20View.png)
 
 ## Overview
 
@@ -39,9 +38,10 @@ This board can be manufactured through JLCPCB with their PCB Assembly (PCBA) ser
 
 ### Bottom Layer (Signal / GND)
 
-![Bottom PCB Layer](Images/Bottom%20Layer.png)
+
 
 ## License
 
 This ESP32-CAM is licensed under the MIT License. See the full license text in [LICENSE](LICENSE).
+
 
