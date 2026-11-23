@@ -32,9 +32,6 @@ This board can be manufactured through JLCPCB with their PCB Assembly (PCBA) ser
 
 ![Schematic](Images/Schematic.png)
 
-### Top Layer (Signal / GND)
-
-![Top PCB Layer](Images/Top%20Layer.png)
 
 ### Bottom Layer (Signal / GND)
 
@@ -43,5 +40,6 @@ This board can be manufactured through JLCPCB with their PCB Assembly (PCBA) ser
 ## License
 
 This ESP32-CAM is licensed under the MIT License. See the full license text in [LICENSE](LICENSE).
+
 
 
